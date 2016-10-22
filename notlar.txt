@@ -1,0 +1,8 @@
+1. rota çizme
+2. json harici yöntem var mý?
+3. search yapýlan yerleri kelimeleri tutma
+4. destination seçilen yerleri isim tür location olarak tutma
+5. puanlama sistemi oluþturma
+6. bildirim gönderme
+7. arka planda location toplama
+8. 
